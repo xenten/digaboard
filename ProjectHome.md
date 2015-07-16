@@ -1,0 +1,1 @@
+Visual project management tool that will complement Kanban, Scrum (or any stand-up) that uses a whiteboard with stickies for visualizing the tasks at hand. Ditch the old whiteboard and replace it with a web based interactive tool.
